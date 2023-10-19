@@ -45,7 +45,7 @@ Below we shall examine the propers one by one.
 
 "Introit" is a Latin word meaning "he, she, or it enters." It is thus fundamentally tied to the liturgical action of entrance. In ancient times, it was chanted during the procession and the preparation of the altar. It marked the beginning of the Mass itself.
 
-{% include youtubePlayer.html id="LJheGyhBGPU" %}
+{% include youtube-player.html id="LJheGyhBGPU" %}
 
 ### Gradual
 
