@@ -44,18 +44,18 @@ These are the propers:
 
 Additional propers exist such as Sequences and Tropes. For our purposes, we will focus on the five given above.
 
-<!-- Below we will examine the propers one by one.
+Below we will examine the propers one by one.
 
-### Introit
+<!-- ### Introit -->
 
-"Introit" is a Latin word meaning "he/she/it enters." It is fundamentally tied to the liturgical action of entrance. In ancient times, it was chanted during the procession and censing of the altar, marking the beginning of the Mass itself.
+<!-- "Introit" is a Latin word meaning "he/she/it enters." It is fundamentally tied to the liturgical action of entrance. In ancient times, it was chanted during the procession and censing of the altar, marking the beginning of the Mass itself. -->
 
 {% include youtube-player.html id="LJheGyhBGPU" %}
 
-### Gradual
+<!-- ### Gradual -->
 
-### Alleluia/Tract
+<!-- ### Alleluia/Tract -->
 
-### Offertory
+<!-- ### Offertory -->
 
-### Communion -->
+<!-- ### Communion -->
