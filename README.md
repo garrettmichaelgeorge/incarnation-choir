@@ -25,9 +25,14 @@ _Christmas Eve_  | 12/24/23 | SEP p. 16–17 - [rec](https://www.youtube.com/wat
 _Christmas Day_  | 12/25/23 | SEP p. 28–29 - [rec](https://www.youtube.com/watch?v=YnB1S-q2vuw&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC&index=22&pp=iAQB8AUB)   | AUG p. 38–39      | SEP p. 29–30 - [rec](https://www.youtube.com/watch?v=j2XofVJs7Eo&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC&index=23&pp=iAQB8AUB)       |
 _1st Sunday after Christmas_  | 12/31/23 | SEP p. 32 - [rec](https://vimeo.com/26385170) | AUG p. 42–43      | SEP p.33 - [rec](https://vimeo.com/26870878)       |
 
-## The Mass Propers
 
-In the Western liturgical tradition (of which we as Anglicans take part), the part of the choir is typically to sing the Mass propers. The propers are a set of texts, usually Scriptural, that correspond with the Mass of that day. They are therefore "proper" to a given day in the Church calendar.
+## What are we singing?
+
+In the Western liturgical tradition (of which we as Anglicans take part), the part of the choir is to sing the **Mass propers**.
+
+The propers are a set of sung liturgical texts, each of which correspond with the day in the church calendar and accompany or ornament a liturgical action.
+
+Each day's propers are typically based in Scripture and often derived from the Psalms. They often relate with the texts of the lectionary and display the wonderful interconnectedness of the written Word.
 
 These are the propers:
 
@@ -39,11 +44,11 @@ These are the propers:
 
 Additional propers exist such as Sequences and Tropes. For our purposes, we will focus on the five given above.
 
-Below we shall examine the propers one by one.
+<!-- Below we will examine the propers one by one.
 
 ### Introit
 
-"Introit" is a Latin word meaning "he, she, or it enters." It is thus fundamentally tied to the liturgical action of entrance. In ancient times, it was chanted during the procession and the preparation of the altar. It marked the beginning of the Mass itself.
+"Introit" is a Latin word meaning "he/she/it enters." It is fundamentally tied to the liturgical action of entrance. In ancient times, it was chanted during the procession and censing of the altar, marking the beginning of the Mass itself.
 
 {% include youtube-player.html id="LJheGyhBGPU" %}
 
@@ -53,4 +58,4 @@ Below we shall examine the propers one by one.
 
 ### Offertory
 
-### Communion
+### Communion -->
