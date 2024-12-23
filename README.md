@@ -22,7 +22,7 @@ my best to update this table accordingly.
 
 Liturgy   | Date | Introit | Alleluia | Communion |
 ----------|------|---------|----------|-----------|
-~~1st Sunday of Advent~~     | ~~Dec. 1, 2024~~ | - | - |
+~~1st Sunday of Advent~~     | ~~Dec. 1, 2024~~ | - | - | - |
 _2nd Sunday of Advent_       | Dec. 8, 2024     | SEP p. 5 - [score](https://churchmusicassociation.org/sep/), [rehearsal recording](https://www.youtube.com/watch?v=lE93Et2HAww&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC&index=4&pp=iAQB8AUB) | - | - |
 _3rd Sunday of Advent_       | Dec. 15, 2024    | SEP p. 5 - [score](https://churchmusicassociation.org/sep/), [rehearsal recording](https://www.youtube.com/watch?v=lE93Et2HAww&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC&index=4&pp=iAQB8AUB) | Handout     | SEP p. 11-12 - [score](https://churchmusicassociation.org/sep/), [rehearsal recording](https://www.youtube.com/watch?v=ZMc2kLrO7b8&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC) |
 _4th Sunday of Advent_       | Dec. 22, 2024    | SEP p. 5 - [score](https://churchmusicassociation.org/sep/), [rehearsal recording](https://www.youtube.com/watch?v=lE93Et2HAww&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC&index=4&pp=iAQB8AUB) | Handout     | SEP p. 11-12 - [score](https://churchmusicassociation.org/sep/), [rehearsal recording](https://www.youtube.com/watch?v=ZMc2kLrO7b8&list=PLxbhZKZL8q5r6mJrDROL0Cchu9D-C2mKC) |
