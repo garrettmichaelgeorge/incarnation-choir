@@ -20,6 +20,8 @@ pages themselves; the PDF files sometimes use different numbering.
 Some changes may occur as we near the service dates. If that happens, I will do
 my best to update this table accordingly.
 
+We will meet before each liturgy at **9:30 am** unless stated otherwise.
+
 Liturgy   | Date | Introit | Alleluia | Communion |
 ----------|------|---------|----------|-----------|
 ~~1st Sunday of Advent~~     | ~~Dec. 1, 2024~~ | - | - | - |
